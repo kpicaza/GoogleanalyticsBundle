@@ -5,7 +5,7 @@ Twig extension to insert Google Analytics script in your templates
 
 ##Installation:
 
-    composer require kpicaza/google-analytics-bundle
+    composer require kpicaza/google-analytics-bundle=dev-master
 
 Then activate in your app kernel
     // app/AppKernel.php
