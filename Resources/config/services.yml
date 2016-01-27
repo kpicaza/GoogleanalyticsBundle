@@ -1,0 +1,6 @@
+services:
+    kpicaza_ga.twig_extension:
+        class: Kpicaza\Bundle\GoogleanalyticsBundle\Twig\GAExtension
+        public: false
+        tags:
+            - { name: twig.extension }
