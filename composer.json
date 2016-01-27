@@ -1,6 +1,6 @@
 {
     "name": "kpicaza/google-analytics-bundle",
-    "description": "Simple way to insert googlee analytics tracker in your templates.",
+    "description": "Simple way to insert google analytics tracker in your templates.",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
